@@ -41,7 +41,6 @@ hr {
 
 .titleblock{
     background-color: #001A38;
-    padding-top: 1px;
 }
 
 p{ /*text*/
@@ -50,6 +49,7 @@ p{ /*text*/
 
 h1 { /* Title */
     font-size: 100px;
+    margin-top: 0%;
 }
 
 h2 { /* subtitle */
