@@ -2,7 +2,7 @@ html {
     font-family: sans-serif;
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%;
-  }
+}
 
 body {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -27,7 +27,7 @@ div {
 .spacer { /*just a tool to get some space*/
     clear: both;
     height: 20px;
-  }
+}
 
 hr {
   margin-top: 20px;
@@ -51,6 +51,7 @@ p{ /*text*/
 h1 { /* Title */
     font-size: 100px;
 }
+
 h2 { /* subtitle */
     opacity: 60%;
 }
@@ -58,12 +59,10 @@ h2 { /* subtitle */
 h3{ /* heading 1 */
     text-decoration: underline;
     font-size: x-large;
-    
 }
 
 h4{ /* heading 2 */
-    opacity: 60%;;
-    
+    opacity: 60%;;   
 }
 
 footer {
