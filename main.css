@@ -41,7 +41,7 @@ a:hover {
     height: 20px;
 }
 
-hr {
+hr { /*Line*/
   margin-top: 20px;
   margin-bottom: 20px;
   border: 1;
