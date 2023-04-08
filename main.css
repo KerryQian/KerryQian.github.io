@@ -24,6 +24,18 @@ div {
     -webkit-box-sizing:border-box;
 }
 
+a {
+    color: #8ea9f1;
+    text-decoration: none;
+}
+
+a:hover {
+    color:#00A0C6; 
+    text-decoration:none; 
+    cursor:pointer;  
+}
+
+
 .spacer { /*just a tool to get some space*/
     clear: both;
     height: 20px;
@@ -41,6 +53,11 @@ hr {
 
 .titleblock{
     background-color: #001A38;
+}
+
+.container{
+    width: 40vw;
+    margin: auto;
 }
 
 p { /*text*/
